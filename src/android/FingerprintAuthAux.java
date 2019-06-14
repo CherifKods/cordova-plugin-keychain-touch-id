@@ -97,7 +97,7 @@ public class FingerprintAuthAux {
     FingerprintAuthenticationDialogFragment mFragment;
     private FingerprintManager mFingerPrintManager;
     private int mCurrentMode;
-    private String mLangCode = "en_US";
+    private String mLangCode = "fr_FR";
 
     private FingerprintAuth mParentCordovaPlugin;
     /**
